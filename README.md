@@ -3,6 +3,7 @@
 ![Screenshot 2025-03-04 at 7 16 48 PM](https://github.com/user-attachments/assets/7ed79f9c-9144-4870-accd-500085a15592)
 
 ![image](https://github.com/user-attachments/assets/5b2813a5-f493-4665-8964-77359b5be93a)
+<img width="1852" height="972" alt="Screenshot from 2026-05-09 13-58-26" src="https://github.com/user-attachments/assets/736c8604-b7cc-4250-ae1c-b04355766ae2" />
 
 ## Features
 
